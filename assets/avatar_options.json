@@ -1,0 +1,95 @@
+{
+    "clothes_top": [
+        {
+            "label": "Dress",
+            "filename": "clothes_top_default"
+        },
+        {
+            "label": "T-shirt",
+            "filename": "clothes_top_tshirt"
+        },
+        {
+            "label": "Large Sweater",
+            "filename": "clothes_top_sweater"
+        }
+    ],
+    "clothes_bottom": [
+        {
+            "label": "Shorts",
+            "filename": "clothes_bottom_default"
+        },
+        {
+            "label": "Panties",
+            "filename": "clothes_bottom_panties"
+        },
+        {
+            "label": "Jeans Shorts",
+            "filename": "clothes_bottom_shorts"
+        }
+    ],
+    "hair_back": [
+        {
+            "label": "Default",
+            "filename": "hair_back_default"
+        },
+        {
+            "label": "Piggytails",
+            "filename": "hair_back_piggytails"
+        }
+    ],
+    "hair_front": [
+        {
+            "label": "Default",
+            "filename": "hair_front_default"
+        },
+        {
+            "label": "Fringe",
+            "filename": "hair_front_fringe"
+        }
+    ],
+    "body": [
+        {
+            "label": "Default",
+            "filename": "body_default"
+        },
+        {
+            "label": "Freckels",
+            "filename": "body_freckled"
+        }
+    ],
+        "shoes": [
+            {
+                "label": "Shoes",
+                "filename": "shoes_default"
+            },
+            {
+                "label": "Boots",
+                "filename": "shoes_boots"
+            }
+        ],
+        
+        "accessory": [
+            {
+                "label": "None",
+                "filename": "accessory_default"
+            },
+            {
+                "label": "Glasses",
+                "filename": "accessory_glasses"
+            },
+            {
+                "label": "Cat Ears",
+                "filename": "accessory_catears"
+            }
+        ],
+                "face": [
+            {
+                "label": "Happy",
+                "filename": "face_default"
+            },
+            {
+                "label": "Sad",
+                "filename": "face_sad"
+            }
+        ]          
+    }
