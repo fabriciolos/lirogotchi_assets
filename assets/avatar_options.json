@@ -25,12 +25,21 @@
         {
             "label": "Jeans Shorts",
             "filename": "clothes_bottom_shorts"
+        },
+                {
+            "label": "Skirt",
+            "filename": "clothes_bottom_skirt"
         }
+
     ],
     "hair_back": [
         {
             "label": "Default",
             "filename": "hair_back_default"
+        },
+        {
+            "label": "Afro",
+            "filename": "hair_back_afro"
         },
         {
             "label": "Piggytails",
@@ -41,6 +50,10 @@
         {
             "label": "Default",
             "filename": "hair_front_default"
+        },
+        {
+            "label": "Curly",
+            "filename": "hair_front_curly"
         },
         {
             "label": "Fringe",
